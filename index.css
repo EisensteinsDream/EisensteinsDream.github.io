@@ -56,9 +56,10 @@ div:hover.imagelinkcontainer > a.imagelink > div.imagelink
 div.imagelink
 {
 	position: absolute;
-	text-align: center;
-	top:25%;
-	width:100%;
+	text-align: left;
+	left:0%;
+	top:10%;
+	width:75%;
 	font-size:3em;
 }
 

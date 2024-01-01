@@ -20,7 +20,7 @@ a.imagelink
 
 div.toptext
 {
-	margin-left:10%;
+	margin-left:20%;
 	margin-bottom:5%;
 }
 
@@ -28,6 +28,33 @@ p.toptext
 {
 	color:rgb(255, 255, 255);
 	font-size:1.75em;
+}
+
+div.midtext
+{
+	margin-right:65%;
+	margin-bottom:5%;
+}
+
+p.midtext
+{
+	color:rgb(255, 255, 255);
+	font-size:1.5em;
+	text-align:right;
+	margin-left:0%;
+	margin-top:0;
+	margin-bottom:0;
+	margin-right:0;
+}
+
+p.midtextsep
+{
+	color:rgb(255, 255, 255);
+	font-size:1.5em;
+	text-align:left;
+	margin-left:65%;
+	margin-top:0;
+	margin-bottom:0;
 }
 
 div.imagelinkcontainer
@@ -63,3 +90,14 @@ div.imagelink
 	font-size:3em;
 }
 
+div.otherprojaudio
+{
+	position: absolute;
+	left:35%;
+}
+
+p.otherprojaudio
+{
+	text-align: center;
+	color:rgb(255,255,255);
+}

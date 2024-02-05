@@ -33,7 +33,7 @@ p.toptext
 div.midtext
 {
 	margin-right:65%;
-	margin-bottom:5%;
+	margin-bottom:2%;
 }
 
 p.midtext
@@ -92,12 +92,72 @@ div.imagelink
 
 div.otherprojaudio
 {
+	margin-top:0;
 	position: absolute;
 	left:35%;
 }
 
 p.otherprojaudio
 {
+	margin-top:0;
 	text-align: center;
 	color:rgb(255,255,255);
+}
+
+div.otherproj
+{
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	margin-bottom:0;
+}
+
+p.otherproj
+{
+	font-size:1.5em;
+	margin-top:0;
+	margin-left:25%;
+	text-align: left;
+	color:rgb(255,255,255);
+}
+
+a.otherproj
+{
+
+}
+
+div.autodrawingheader
+{
+
+}
+
+p.autodrawingheader
+{
+	font-size:3em;
+	margin-left:5%;
+	color:rgb(255,255,255);
+}
+
+div.autodrawingheader2
+{
+
+}
+
+p.autodrawingheader2
+{
+	font-size:1.5em;
+	margin-left:5%;
+	color:rgb(255,255,255);
+}
+
+div.autodrawgallery
+{
+	margin-top:5%;
+	margin-left:10%;
+	margin-right:0;
+}
+
+img.autodrawgalleryicon
+{
+	width:10%;
 }
